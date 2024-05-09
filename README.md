@@ -1,0 +1,1 @@
+Performed customer segmentation on an Online Store dataset using Recency, frequency, monetarty analysis with K means clustering and estimated customer life time value using probabilistic methods such as gamma-gamma model and BG-NGD model (collectively called Buy till you Die BTYD)
